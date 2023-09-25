@@ -2,7 +2,7 @@ const express = require("express")
 const app = express()
 const ejs = require('ejs');
 const fs = require('fs');
-const port = 3000;
+const port = 8080;
 var path = require('path')
 
 //database connection
